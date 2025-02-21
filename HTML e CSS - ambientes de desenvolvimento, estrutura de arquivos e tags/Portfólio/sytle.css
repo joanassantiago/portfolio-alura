@@ -1,8 +1,47 @@
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    height: 100vh;
+    font-size: 100%;
+    list-style-type: none;
+}
+
 body{
     background-color: black;
     color: #F6F6F6;
 }
 
 strong{
-    color: rgb(35, 107, 240);
+    color: #22D4FD;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+}
+
+.container__content{
+    width: 615px;
+    height: 482px;
+}
+
+.image{
+    width: 30%;
+    height: 30%;
+}
+
+.container__content__title{
+    font-size: 36px;
+}
+
+.container__content__paragraph{
+    font-size: 24px;
 }
