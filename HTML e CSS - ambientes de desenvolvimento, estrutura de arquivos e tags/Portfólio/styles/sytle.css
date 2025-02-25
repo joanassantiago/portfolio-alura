@@ -103,7 +103,7 @@ strong{
     font-weight: 600;
 }
 
-.container__content__links__link:hover{
+.container__content__links__navigation:hover{
     background-color: var(--hover-color);
 }
 
