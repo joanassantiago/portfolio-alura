@@ -122,17 +122,21 @@ footer{
 }
 
 @media (max-width: 1200px) {
-    .container{
-        display: flex;
-        flex-direction: column-reverse;
-    }
-
+    
     header{
         padding: 10px;
     }
 
     .head__menu{
-        display: flex;
         justify-content: center;
+    }
+    
+    .container{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .container__content{
+        width: auto;
     }
 }
