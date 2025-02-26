@@ -1,6 +1,6 @@
 # 📂 Portfolio - Project Alura
 
-Welcome to the **Portfolio** repository! This project is a **practice portfolio** created as part of the Alura learning platform. It is a hands-on exercise to apply web development concepts, including HTML, CSS, and JavaScript, while building a responsive and visually appealing portfolio layout.
+Welcome to the **Portfolio** repository! This project is a **practice portfolio** created as part of the Alura learning platform. It is a hands-on exercise to apply web development concepts, including HTML and CSS, while building a responsive and visually appealing portfolio layout.
 
 This is **not my official portfolio**, but rather a project to demonstrate my learning progress and skills in front-end development.
 
