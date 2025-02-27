@@ -54,7 +54,6 @@ The goal is to create a functional and visually appealing portfolio layout while
 
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout design, including Flexbox and Grid.
-- **JavaScript**: For basic interactivity (e.g., form validation or dynamic content).
 - **Git & GitHub**: For version control and hosting the project.
 - **Responsive Design**: Media queries and flexible layouts for cross-device compatibility.
 
