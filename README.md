@@ -1,4 +1,4 @@
-# 📂 Portfolio - Project Alura
+# 📂 Portfolio - Alura Project
 
 Welcome to the **Portfolio** repository! This project is a **practice portfolio** created as part of the Alura learning platform. It is a hands-on exercise to apply web development concepts, including HTML and CSS, while building a responsive and visually appealing portfolio layout.
 
