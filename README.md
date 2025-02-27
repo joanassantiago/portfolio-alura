@@ -24,7 +24,6 @@ This project is a **practice portfolio** developed as part of the Alura curricul
 
 - Structuring content with **HTML**.
 - Styling with **CSS** (including Flexbox and Grid).
-- Adding interactivity with **JavaScript**.
 - Ensuring responsiveness for different screen sizes.
 
 The goal is to create a functional and visually appealing portfolio layout while following best practices in web development.
@@ -43,10 +42,7 @@ The goal is to create a functional and visually appealing portfolio layout while
 ## ✨ Features
 
 - **Responsive Design**: The layout adapts to different screen sizes, from desktops to mobile devices.
-- **Project Section**: A placeholder section to showcase projects (to be customized with real projects in the future).
-- **Skills Section**: Highlights the technologies and tools used in the project.
 - **About Me Section**: A brief introduction about the developer (placeholder content for now).
-- **Contact Form**: A simple form for users to send messages (non-functional in this project version).
 
 ---
 
